@@ -11,6 +11,8 @@ function App() {
       <div>Hello Image Gram</div>
       <p>Add here!!</p>
       <h1>This code written by ajay</h1>
+            <h1>This code written by ajay</h1>
+
     </div>
   );
 }

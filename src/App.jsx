@@ -10,6 +10,7 @@ function App() {
     <div>
       <div>Hello Image Gram</div>
       <p>Add here!!</p>
+      <h1>This code written by ajay</h1>
     </div>
   );
 }

@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <h1>Hello</h1>
+      <div>Hello Image Gram</div>
       <p>Add here!!</p>
     </div>
   );
